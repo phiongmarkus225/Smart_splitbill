@@ -69,3 +69,6 @@ The application will automatically open in your default web browser at `http://l
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## LINK
+https://smartsplitbill.streamlit.app/
